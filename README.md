@@ -104,9 +104,13 @@ After each successful classification, the Serial Monitor displays the estimated 
 This project demonstrates the basic principles of sensor-based automation and object classification. Its approach can be extended to several practical applications:
 
 Industrial sorting systems: Automated classification of products according to their dimensions on conveyor belts.
+
 Packaging and manufacturing: Sorting objects into different groups before packaging or further processing.
+
 Smart material handling:Integrating sensors and actuators to automate the movement and routing of objects.
+
 Educational robotics:Demonstrating ultrasonic sensing, PWM motor control, servo actuation, and embedded programming.
+
 Automated inspection systems:Extending the design with additional sensors to classify objects using multiple properties.
 
 
